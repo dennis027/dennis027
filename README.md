@@ -8,7 +8,7 @@
 
 🌐 Check out my [portfolio](https://dennis027.github.io/portfolio/).  
 📚 Creator of [Mwangaza Little Readers](https://github.com/dennis027), supporting young learners with books.  
-📊 Experienced in natural language processing (NLP) and transaction data analysis.  
+📊 Experienced in Angular and Responsive Designs.  
 🎨 Entrepreneur in the graphic t-shirts and mugs printing business.  
 
 🔧 **Currently Learning:**  
@@ -21,7 +21,7 @@
 📫 **Contact Me:**  
 - **GitHub**: [github.com/dennis027](https://github.com/dennis027)  
 - **Email**: [machariad196@gmail.com)  
-- **LinkedIn**: [linkedin.com/in/your-profile](https://www.linkedin.com/in/dennis-kimani-06a957201/)
+- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/dennis-kimani-06a957201/)
 
 ---
 
