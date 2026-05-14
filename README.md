@@ -1,9 +1,9 @@
 # 💫 About Me
 
-- 🔭 Currently building: **Mwangaza Little Readers** — getting books into the hands of young kids
-- 🌱 Leveling up in: **DSA (Python & JS)**, **MikroTik automation**, and **penetration testing**
+- 🔭 Currently Exploring: coding life, security in software systems , secured system design and DevOps
+- 🌱 Leveling up in: **Better Code Quality**, **System Monitoring**, and **penetration testing**
 - 🤝 Open to collaborations in Full-Stack Dev, Angular UIs, and Network Security
-- ⚡ Fun fact: I also run a graphic t-shirts & mugs printing business on the side
+- ⚡ Fun fact: I also a Information security expert and security is always the key in everything
 
 ---
 
@@ -29,14 +29,14 @@
 
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 
 ### 🔐 Currently Learning
-![Python](https://img.shields.io/badge/DSA%20in%20Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/DSA%20in%20JS-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux%20Administration-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Security](https://img.shields.io/badge/Security-6DA55F?style=for-the-badge&logo=guardsquare&logoColor=white)
 
 ---
 
